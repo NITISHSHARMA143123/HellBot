@@ -34,7 +34,8 @@
 
 ------
 ## Deploy 🚀
-- [![Heroku](https://img.shields.io/badge/HellBot-Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku)](#Deploy-To-Heroku)
+- [![Heroku]
+#### [THIS ALSO FOR HEROKU](https://heroku.com/deploy?template=https://github.com/NITISHSHARMA143123/cocktail12) 
 
 - [![Railway](https://img.shields.io/badge/HellBot-Deploy%20On%20Railway-black?style=for-the-badge&logo=railway)](#Deploy-on-Railway)
 
